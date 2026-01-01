@@ -1,16 +1,24 @@
-## Hi there 👋
+Hey there! 👋
 
-<!--
-**mfdx-tech/mfdx-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mauricio, a web dev student from Brazil.
 
-Here are some ideas to get you started:
+I like building simple, clean websites and learning how the web works step by step.  
+Most of the time I'm experimenting with layouts, CSS, and small JavaScript features.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I use
+- HTML  
+- CSS  
+- JavaScript  
+- Learning C
+
+### Tools
+- VS Code  
+- Git & GitHub  
+- Linux (Fedora)
+
+### Interests
+- Web development  
+- Design & layout  
+- Programming fundamentals  
+
+Still learning, improving, and building things as I go.
