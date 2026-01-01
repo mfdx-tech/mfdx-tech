@@ -22,3 +22,18 @@ Most of the time I'm experimenting with layouts, CSS, and small JavaScript featu
 - Programming fundamentals  
 
 Still learning, improving, and building things as I go.
+
+---
+
+### Languages ​​and Technologies
+
+
+ <img 
+     align="Left"
+     alt= "HTML"
+     title="HTML"
+     widht="30px"
+     style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+          
