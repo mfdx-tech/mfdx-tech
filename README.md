@@ -9,8 +9,10 @@ Most of the time I'm experimenting with layouts, CSS, and small JavaScript featu
 - HTML  
 - CSS
 - C#
+- Java
 - JavaScript  
-- Learning C and Java
+- Learning C
+  
 
 ### Tools
 - VS Code  
@@ -19,7 +21,7 @@ Most of the time I'm experimenting with layouts, CSS, and small JavaScript featu
 
 ### Interests
 - Web development
-- Studying back-end with C#(.NET)
+- Studying back-end with Java
 - Design & layout  
 - Programming fundamentals  
 
