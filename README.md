@@ -18,7 +18,8 @@ Most of the time I'm experimenting with layouts, CSS, and small JavaScript featu
 - Linux (Fedora)
 
 ### Interests
-- Web development  
+- Web development
+- Studying back-end with C#(.NET)
 - Design & layout  
 - Programming fundamentals  
 
