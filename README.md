@@ -8,8 +8,9 @@ Most of the time I'm experimenting with layouts, CSS, and small JavaScript featu
 ### What I use
 - HTML  
 - CSS
+- JavaScript
+- Python
 - C#
-- JavaScript  
 - Learning C
   
 
