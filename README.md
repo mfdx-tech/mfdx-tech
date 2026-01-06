@@ -9,7 +9,6 @@ Most of the time I'm experimenting with layouts, CSS, and small JavaScript featu
 - HTML  
 - CSS
 - C#
-- Java
 - JavaScript  
 - Learning C
   
@@ -21,7 +20,7 @@ Most of the time I'm experimenting with layouts, CSS, and small JavaScript featu
 
 ### Interests
 - Web development
-- Studying back-end with Java
+- Studying back-end with C# and Python
 - Design & layout  
 - Programming fundamentals  
 
@@ -37,8 +36,8 @@ Still learning, improving, and building things as I go.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="margin-right: 40px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="margin-right: 40px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" style="margin-right: 40px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50" height="50" style="margin-right: 50px;"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" style="margin-right: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" style="margin-right: 50px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" style="margin-right: 40px;"/>
           
           
 </p>
