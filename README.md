@@ -6,12 +6,9 @@ I like building simple, clean websites and learning how the web works step by st
 Most of the time I'm experimenting with layouts, CSS, and small JavaScript features.
 
 ### What I use
-- HTML  
-- CSS
 - JavaScript
 - Python
-- C++
-- Learning C and C++
+
   
 
 ### Tools
