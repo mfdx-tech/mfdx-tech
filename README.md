@@ -1,28 +1,26 @@
 Hey there! 👋
 
-I'm Mauricio, a web dev student from Brazil.
+I'm Mauricio, a back-end development student from Brazil 🇧🇷
 
-I like building simple, clean websites and learning how the web works step by step.  
-Most of the time I'm experimenting with layouts, CSS, and small JavaScript features.
+I focus on building clean, simple projects while learning how back-end systems work step by step.  
+Most of my time is spent practicing fundamentals, working with logic, and creating small features using Python and JavaScript.
 
-### What I use
-- JavaScript
-- Python
-
-  
+### What I work with
+- Python (fundamentals and logic)
+- JavaScript (basics for back-end concepts)
 
 ### Tools
 - VS Code  
 - Git & GitHub  
 - Linux (Fedora)
 
-### Interests
-- Web development
-- Studying back-end with C# and Python
-- Design & layout  
-- Programming fundamentals  
+### Current interests
+- Back-end development fundamentals  
+- Studying APIs and server-side logic  
+- Learning C# for back-end development  
+- Clean code and project organization  
 
-Still learning, improving, and building things as I go.
+Always learning, improving, and building consistently.
 
 ---
 
