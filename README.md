@@ -13,8 +13,58 @@
 ###
 
 <h1 align="center">hey there 👋</h1>
+<p align="center">👋 Olá, eu sou Maurício
 
-###
+🚀 Desenvolvedor focado em automações para empresas
+
+Atualmente crio sistemas que automatizam tarefas repetitivas em escritórios, principalmente na área contábil.
+
+---
+
+💼 O que eu faço
+
+- 📊 Automação de planilhas para sistemas web
+- 📁 Organização automática de arquivos por cliente
+- ⚙️ Sistemas que eliminam tarefas manuais repetitivas
+- 🤖 Automação de processos internos
+
+---
+
+🧠 Tecnologias
+
+- Python
+- Selenium
+- OpenPyXL
+- Automação de processos
+
+---
+
+🚀 Projetos em destaque
+
+🔹 Automação de preenchimento de sistemas
+Sistema que lê dados de uma planilha e preenche automaticamente em sistemas web.
+
+🔹 Organizador automático de arquivos
+Sistema que organiza documentos automaticamente por tipo e cliente.
+
+🔹 (Em desenvolvimento) AutoFlow
+Sistema que detecta arquivos automaticamente e executa processos sem intervenção manual.
+
+---
+
+🎯 Objetivo
+
+Criar soluções simples e eficientes que economizam tempo e aumentam a produtividade de empresas.
+
+---
+
+📬 Contato
+
+📧 Email: mauriciofmail@gmail.com
+🔗 GitHub: https://github.com/mfdx-tech
+
+---
+###</p>
 
 <br clear="both">
 
