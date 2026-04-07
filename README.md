@@ -96,7 +96,6 @@ Criar soluções simples e eficientes que economizam tempo e aumentam a produtiv
   <img width="12" />
   <img width="12" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </div>
 
 ###
