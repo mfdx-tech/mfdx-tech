@@ -35,6 +35,7 @@ Atualmente crio sistemas que automatizam tarefas repetitivas em escritórios, pr
 - Python
 - Selenium
 - OpenPyXL
+- Os e Shutil
 - Automação de processos
 
 ---
@@ -86,7 +87,6 @@ Criar soluções simples e eficientes que economizam tempo e aumentam a produtiv
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
