@@ -65,7 +65,7 @@ Criar soluções simples e eficientes que economizam tempo e aumentam a produtiv
 🔗 GitHub: https://github.com/mfdx-tech
 
 ---
-#</p>
+</p>
 
 <br clear="both">
 
