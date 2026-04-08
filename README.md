@@ -24,7 +24,7 @@ Atualmente crio sistemas que automatizam tarefas repetitivas em escritórios, pr
 💼 O que eu faço
 
 - 📊 Automação de planilhas para sistemas web
-- 📁 Organização automática de arquivos por tipo
+- 📁 Organização automática de arquivos por clientes, tipo, mês ou ano
 - ⚙️ Sistemas que eliminam tarefas manuais repetitivas
 - 🤖 Automação de processos internos
 
@@ -36,7 +36,7 @@ Atualmente crio sistemas que automatizam tarefas repetitivas em escritórios, pr
 - Selenium
 - OpenPyXL
 - Os e Shutil
-- Automação de processos
+- Git
 
 ---
 
