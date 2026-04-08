@@ -17,7 +17,7 @@
 
 🚀 Desenvolvedor focado em automações para empresas
 
-Atualmente crio sistemas que automatizam tarefas repetitivas em escritórios, principalmente na área contábil.
+Atualmente crio sistemas que automatizam tarefas repetitivas em escritórios, principalmente na área de contábilidade.
 
 ---
 
