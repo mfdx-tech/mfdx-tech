@@ -34,7 +34,7 @@ Atualmente crio sistemas que automatizam tarefas repetitivas em escritórios, pr
 
 - Python
 - Selenium
-- OpenPyXL
+- Pandas
 - Os e Shutil
 - Git
 
