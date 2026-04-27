@@ -33,7 +33,7 @@ Atualmente crio sistemas que automatizam tarefas repetitivas em escritórios, pr
 🧠 Tecnologias
 
 - Python
-- Selenium
+- TypeScript
 - Pandas
 - Os e Shutil
 - Git
@@ -82,14 +82,12 @@ Criar soluções simples e eficientes que economizam tempo e aumentam a produtiv
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
   <img width="12" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"  height="40" alt="TypeScript logo"/>
   <img width="12" />
   <img width="12" />
   <img width="12" />
