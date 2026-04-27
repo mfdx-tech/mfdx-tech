@@ -12,58 +12,62 @@
 
 ###
 
-<h1 align="center">Olá, sou Maurício👋</h1>
+<h1 align="center">Olá, sou Maurício</h1>
 <p align="center"
 
-🚀 Desenvolvedor focado em automações para empresas
+👨‍💻 Maurício Ferreira
 
-Atualmente crio sistemas que automatizam tarefas repetitivas em escritórios, principalmente na área de contábilidade.
+Backend Developer focado em TypeScript, APIs e automação com IA.
 
----
-
-💼 O que eu faço
-
-- 📊 Automação de planilhas para sistemas web
-- 📁 Organização automática de arquivos por clientes, tipo, mês ou ano
-- ⚙️ Sistemas que eliminam tarefas manuais repetitivas
-- 🤖 Automação de processos internos
+🚀 Meu objetivo é construir sistemas que resolvem problemas reais usando backend moderno + inteligência artificial.
 
 ---
 
-🧠 Tecnologias
+🧠 Stack principal
 
-- Python
 - TypeScript
-- Node.Js
-- NestJs
+- Node.js
+- NestJS
 - PostgreSQL
-- Git
+- Prisma
+
+---
+
+⚙️ O que eu faço
+
+- Desenvolvimento de APIs REST
+- Integração com serviços externos
+- Autenticação (JWT)
+- Automação de processos com IA
+- Sistemas backend escaláveis
 
 ---
 
 🚀 Projetos em destaque
 
-🔹 Automação de preenchimento de sistemas
-Sistema que lê dados de uma planilha e preenche automaticamente em sistemas web.
+🔹 API de autenticação com JWT
+🔹 Sistema de agendamento com banco de dados
+🔹 Integração com IA para automação de respostas
 
-🔹 Organizador automático de arquivos
-Sistema que organiza documentos automaticamente por tipo.
+---
 
-🔹 Sitema de Extração de informações
-Automação em Python que acessa um site, coleta dados automaticamente e gera um relatório em Excel.
+📚 Atualmente estudando
+
+- Arquitetura de software
+- Inteligência Artificial aplicada
+- Sistemas distribuídos
+
+---
 
 🎯 Objetivo
 
-Criar soluções simples e eficientes que economizam tempo e aumentam a produtividade de empresas.
+Criar soluções reais para negócios usando backend + IA e gerar renda com tecnologia.
 
 ---
 
-📬 Contato
+📫 Contato
 
-📧 Email Profissional: mauriciofmail@gmail.com <br>
-🔗 GitHub: https://github.com/mfdx-tech
-
----
+- GitHub: https://github.com/mauricioferreira-tech
 </p>
 
 <br clear="both">
